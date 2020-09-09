@@ -1,0 +1,13 @@
+C:\Users\palss\source\repos\Sünniaasta\Sünniaasta\bin\Debug\netcoreapp3.1\Sünniaasta.exe
+C:\Users\palss\source\repos\Sünniaasta\Sünniaasta\bin\Debug\netcoreapp3.1\Sünniaasta.deps.json
+C:\Users\palss\source\repos\Sünniaasta\Sünniaasta\bin\Debug\netcoreapp3.1\Sünniaasta.runtimeconfig.json
+C:\Users\palss\source\repos\Sünniaasta\Sünniaasta\bin\Debug\netcoreapp3.1\Sünniaasta.runtimeconfig.dev.json
+C:\Users\palss\source\repos\Sünniaasta\Sünniaasta\bin\Debug\netcoreapp3.1\Sünniaasta.dll
+C:\Users\palss\source\repos\Sünniaasta\Sünniaasta\bin\Debug\netcoreapp3.1\Sünniaasta.pdb
+C:\Users\palss\source\repos\Sünniaasta\Sünniaasta\obj\Debug\netcoreapp3.1\Sünniaasta.csprojAssemblyReference.cache
+C:\Users\palss\source\repos\Sünniaasta\Sünniaasta\obj\Debug\netcoreapp3.1\Sünniaasta.AssemblyInfoInputs.cache
+C:\Users\palss\source\repos\Sünniaasta\Sünniaasta\obj\Debug\netcoreapp3.1\Sünniaasta.AssemblyInfo.cs
+C:\Users\palss\source\repos\Sünniaasta\Sünniaasta\obj\Debug\netcoreapp3.1\Sünniaasta.csproj.CoreCompileInputs.cache
+C:\Users\palss\source\repos\Sünniaasta\Sünniaasta\obj\Debug\netcoreapp3.1\Sünniaasta.dll
+C:\Users\palss\source\repos\Sünniaasta\Sünniaasta\obj\Debug\netcoreapp3.1\Sünniaasta.pdb
+C:\Users\palss\source\repos\Sünniaasta\Sünniaasta\obj\Debug\netcoreapp3.1\Sünniaasta.genruntimeconfig.cache

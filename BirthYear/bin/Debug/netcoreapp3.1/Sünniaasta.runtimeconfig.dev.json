@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\palss\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\palss\\.nuget\\packages"
+    ]
+  }
+}
